@@ -25,5 +25,5 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'rspec-rails', '~> 3.2.1'
 gem 'capybara', '~> 2.4.4'
-
+gem 'haml-rails', '~> 0.8.2'
 
